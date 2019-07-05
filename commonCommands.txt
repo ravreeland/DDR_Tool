@@ -1,0 +1,7 @@
+#Quick commands for cmd prompt
+
+cd PycharmProjects\DDR_PlottingTool\DDR_PlottingTool
+
+pyinstaller -w C:\Users\ravreeland\PycharmProjects\DDR_PlottingTool\DDR_PlottingTool\DDR_Plotting_Tool.py
+
+python DDR_Plotting_Tool.py
